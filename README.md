@@ -23,3 +23,5 @@ Things you may want to cover:
 
 Changed file to see if tests are run again
 More big changes in the readme!!!
+
+And now lets try and use it with some test shit
